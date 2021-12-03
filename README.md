@@ -1,7 +1,7 @@
 # MADDPG (Collaboration)
 
 
-The goal of this project is to solve the Tennis Environment from Unity Engine with the tasks as follows:
+The goal of this project is to solve the Tennis Environment with the tasks as follows:
 
 Goal : Two agents control rackets to bounce a ball over a net as long as possible
 
